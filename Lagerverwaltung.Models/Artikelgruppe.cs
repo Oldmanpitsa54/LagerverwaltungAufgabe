@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lagerveraltung.Models
+namespace Lagerverwaltung.Models
 {
     public class Artikelgruppe
     {

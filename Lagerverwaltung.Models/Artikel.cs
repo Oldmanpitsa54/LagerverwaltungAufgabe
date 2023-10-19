@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Lagerveraltung.Models
+namespace Lagerverwaltung.Models
 {
     public class Artikel
     {

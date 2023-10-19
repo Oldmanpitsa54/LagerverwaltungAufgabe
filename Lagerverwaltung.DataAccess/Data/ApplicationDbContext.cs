@@ -1,7 +1,7 @@
-﻿using Lagerveraltung.Models;
+﻿using Lagerverwaltung.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace Lagervewaltung.DataAccess.Data
+namespace Lagerverwaltung.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

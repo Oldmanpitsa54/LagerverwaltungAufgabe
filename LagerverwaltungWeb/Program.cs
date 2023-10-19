@@ -1,4 +1,4 @@
-using Lagervewaltung.DataAccess.Data;
+using Lagerverwaltung.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -30,3 +30,4 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
