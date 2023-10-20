@@ -20,6 +20,7 @@ The functionality of DataAccess layer (only Artikelgruppe repo) is covered with 
 Future propositions to improve the project:
 -Implementaion of a buisness layer 
 -Implementation of running unit tests
+-Modify a database structure to provide a connection between tables and logical constrains delcared by requirements
 -Extesion of UnitOfWork functionality with other methods regarding operations with data
 -Coverage of other parts of DataAccess layer
 -Implementation of user interface
