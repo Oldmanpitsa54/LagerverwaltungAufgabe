@@ -17,8 +17,9 @@ Inside the UnitOfWork class we have two repositories which provide basic CRUD op
 
 The functionality of DataAccess layer (only Artikelgruppe repo) is covered with Unit tests to allow the security of further development changes
 
-Future: propositions to improve the project:
+Future propositions to improve the project:
 -Implementaion of a buisness layer 
--Extesion of UnitOfWork functionality with other methods regarding operations with data.
+-Implementation of running unit tests
+-Extesion of UnitOfWork functionality with other methods regarding operations with data
 -Coverage of other parts of DataAccess layer
 -Implementation of user interface
